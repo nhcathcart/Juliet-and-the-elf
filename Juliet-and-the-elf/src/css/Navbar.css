@@ -1,0 +1,32 @@
+nav{
+    display: flex;
+    padding: 3%;
+    width: 100%;
+    height: 10%;
+    box-sizing: border-box;
+    background-color: #5a7d7cff;
+  }
+  
+  .title-container{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    width: 50%;
+  }
+  
+  .title{
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+
+
+
+
+ 
+  /* --hookers-green: #5a7d7cff;
+  --hover: rgb(77, 106, 105)
+  --coral-pink: #eb9486ff;
+  --eggshell: #edebd7ff;
+  --rose-ebony: #63474dff;
+  --space-cadet: #2b2d42ff; */
